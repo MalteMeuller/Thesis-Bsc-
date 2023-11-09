@@ -1,3 +1,3 @@
 # Thesis
 
-One of the first codes i wrote. For my Bachelor thesis. 
+One of the beginner codes that i wrote for my bsc thesis. Includes some data wranglin and then the random forest algorithm. 
